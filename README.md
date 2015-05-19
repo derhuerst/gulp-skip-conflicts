@@ -1,6 +1,6 @@
 # gulp-skip-conflicts
 
-[![dev dependency status](https://img.shields.io/david/dev/derhuerst/gulp-skip-conflicts.svg)](https://david-dm.org/derhuerst/gulp-skip-conflicts#info=devDependencies)
+[![dependency status](https://img.shields.io/david/derhuerst/gulp-skip-conflicts.svg)](https://david-dm.org/derhuerst/gulp-skip-conflicts#info=dependencies)
 
 Suppress already existing files in a [vinyl stream](https://medium.com/@contrahacks/gulp-3828e8126466).
 
