@@ -1,0 +1,38 @@
+{
+	"name": "gulp-skip-conflicts",
+	"description": "Suppress already existing files in a vinyl stream.",
+	"version": "0.1.0",
+	"main": "src/gulp-skip-conflicts.js",
+	"keywords": [
+		"gulp",
+		"skip",
+		"conflict",
+		"conflicts",
+		"file",
+		"suppress",
+		"stream",
+		"vinyl",
+		"javascript",
+		"gulpplugin"
+	],
+	"author": {
+		"name": "Jannis R",
+		"email": "mail@jannisr.de",
+		"url": "http://jannisr.de"
+	},
+	"homepage": "https://github.com/derhuerst/gulp-skip-conflicts",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/derhuerst/gulp-skip-conflicts.git"
+	},
+	"bugs": {
+		"url": "https://github.com/derhuerst/gulp-skip-conflicts/issues"
+	},
+	"licenses": {
+		"type": "MIT",
+		"url": "http://github.com/derhuerst/gulp-skip-conflicts/raw/master/LICENSE"
+	},
+	"dependencies": {
+		"through2":	"^0.6.5"
+	}
+}

@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+
+.nvm-version
+node_modules
+npm-debug.log
+
+.editorconfig
+.gitignore
+gulp-skip-conflicts.sublime-project
+gulp-skip-conflicts.sublime-workspace
