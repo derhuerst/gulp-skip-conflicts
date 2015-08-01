@@ -28,11 +28,8 @@
 	"bugs": {
 		"url": "https://github.com/derhuerst/gulp-skip-conflicts/issues"
 	},
-	"licenses": {
-		"type": "MIT",
-		"url": "http://github.com/derhuerst/gulp-skip-conflicts/raw/master/LICENSE"
-	},
+	"license": "MIT",
 	"dependencies": {
-		"through2":	"^0.6.5"
+		"through2":		"^2.0.0"
 	}
 }
